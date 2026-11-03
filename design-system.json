@@ -1,0 +1,50 @@
+{
+  "brand": "Astrea.3D",
+  "description": "Identidade visual autoral para uma marca de impressão 3D sob encomenda.",
+  "colors": {
+    "background": "#070B14",
+    "surface": "#101827",
+    "surface_alt": "#151F31",
+    "primary": "#1E6BFF",
+    "primary_light": "#6FBEFF",
+    "text": "#F4F7FC",
+    "muted": "#A7B3C7",
+    "border": "#26344A",
+    "accent": "#8DD8FF"
+  },
+  "typography": {
+    "display": "Arial, Helvetica, sans-serif",
+    "body": "Inter, Arial, sans-serif",
+    "display_weight": 800,
+    "body_weight": 400
+  },
+  "spacing": {
+    "xs": "8px",
+    "sm": "12px",
+    "md": "20px",
+    "lg": "32px",
+    "xl": "56px",
+    "xxl": "88px"
+  },
+  "radius": {
+    "small": "12px",
+    "medium": "20px",
+    "large": "30px",
+    "pill": "999px"
+  },
+  "shadows": {
+    "card": "0 18px 50px rgba(0,0,0,.28)",
+    "glow": "0 0 60px rgba(30,107,255,.22)"
+  },
+  "components": {
+    "button_primary": "Fundo azul, texto branco, formato pill, hover com leve elevação.",
+    "button_secondary": "Fundo transparente, borda azul acinzentada, texto claro.",
+    "card": "Fundo surface, borda fina, raio large e sombra discreta.",
+    "navigation": "Cabeçalho escuro translúcido, links claros e CTA em destaque."
+  },
+  "layout": {
+    "container_max_width": "1160px",
+    "grid": "12 colunas",
+    "mobile_breakpoint": "760px"
+  }
+}

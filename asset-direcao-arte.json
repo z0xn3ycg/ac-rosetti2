@@ -1,0 +1,22 @@
+{
+  "asset": "Imagem principal / hero",
+  "estilo": "fotografia editorial de produto, tecnologia e fabricação digital",
+  "assunto": "impressora 3D de mesa fabricando uma peça geométrica azul",
+  "ambiente": "estúdio criativo escuro, organizado e contemporâneo",
+  "paleta": [
+    "azul elétrico",
+    "azul claro",
+    "grafite",
+    "preto"
+  ],
+  "iluminacao": "luz lateral suave azulada, reflexos controlados e fundo escuro",
+  "composicao": "formato horizontal 16:9, impressora e peça em destaque à direita, espaço negativo à esquerda para texto",
+  "enquadramento": "plano médio aproximado, perspectiva de três quartos",
+  "texturas": "superfícies foscas, filamento com textura sutil, detalhes técnicos nítidos",
+  "restricoes": [
+    "não incluir textos ou logotipos inventados",
+    "não mostrar pessoas",
+    "evitar aparência futurista exagerada",
+    "manter aspecto realista e profissional"
+  ]
+}
